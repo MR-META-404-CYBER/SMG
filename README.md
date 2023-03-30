@@ -10,7 +10,7 @@
 
 * `cd SMG`
 
-* `python MR-MERA.py`
+* `python MR-META.py`
 
 
 ___This Tool is Free Enjoy Dear User.___</br>
